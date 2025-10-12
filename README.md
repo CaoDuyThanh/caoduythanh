@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/thanhcaoct?theme=light&font=Calistoga)
+
 <!--
 **CaoDuyThanh/caoduythanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
