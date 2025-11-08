@@ -10,6 +10,14 @@ I learn best through building, experimenting, and sharing — that’s why I cre
 
 Visit [my blog](https://caoduythanh.github.io/) if you’d like to learn more about my projects and research journey.
 
+---
+🚀 Tech Stack
+
+- **Languages**: Python, C++, Rust
+- **Tools & Frameworks**: Flask, FastAPI, pandas, numpy, seleniumbase, playwright, RabbitMQ, Prefect
+- **Databases**: PostgreSQL, MySQL, MongoDB
+- **DevOps & Others**: GitHub, GitLab, Docker, Git, REST APIs
+
 ## Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/thanhcaoct?theme=light&font=Calistoga)
 
